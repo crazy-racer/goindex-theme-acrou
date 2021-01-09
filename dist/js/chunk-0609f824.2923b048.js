@@ -70,10 +70,10 @@
                     }, [e._v(" " + e._s(e.$t("copy.text")) + " ")])]), n("div", {
                         staticClass: "control has-text-centered"
                     }, [n("a", {
-                        staticClass: "button",
-                        domProps: {
-                            value: e.videoUrl
-                        }
+                        staticClass: "button",{
+                            attrs: {
+                                href: e.videoUrl
+                            }
                     })])]), n("div", {
                         staticClass: "columns is-mobile is-multiline has-text-centered"
                     }, e._l(e.players, (function(t, i) {
