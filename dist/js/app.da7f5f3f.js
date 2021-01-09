@@ -159,7 +159,7 @@
         return c.d(t, "a", t), t
     }, c.o = function(e, t) {
         return Object.prototype.hasOwnProperty.call(e, t)
-    }, c.p = "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/", c.oe = function(e) {
+    }, c.p = "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/", c.oe = function(e) {
         throw console.error(e), e
     };
     var s = window.webpackJsonp = window.webpackJsonp || [],
@@ -1092,18 +1092,18 @@
                     NODE_ENV: "production",
                     VUE_APP_I18N_LOCALE: "zh-chs",
                     VUE_APP_I18N_FALLBACK_LOCALE: "en",
-                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/",
+                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/",
                     VUE_APP_VERSION: "2.0.8",
                     VUE_APP_G2INDEX_VERSION: "1.1.2",
-                    BASE_URL: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/"
+                    BASE_URL: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/"
                 }).VUE_APP_API ? Object({
                     NODE_ENV: "production",
                     VUE_APP_I18N_LOCALE: "zh-chs",
                     VUE_APP_I18N_FALLBACK_LOCALE: "en",
-                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/",
+                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/",
                     VUE_APP_VERSION: "2.0.8",
                     VUE_APP_G2INDEX_VERSION: "1.1.2",
-                    BASE_URL: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/"
+                    BASE_URL: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/"
                 }).VUE_APP_API : ""
             });
         c.interceptors.request.use(function(e) {
@@ -1394,10 +1394,10 @@
                         NODE_ENV: "production",
                         VUE_APP_I18N_LOCALE: "zh-chs",
                         VUE_APP_I18N_FALLBACK_LOCALE: "en",
-                        VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/",
+                        VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/",
                         VUE_APP_VERSION: "2.0.8",
                         VUE_APP_G2INDEX_VERSION: "1.1.2",
-                        BASE_URL: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/"
+                        BASE_URL: "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/"
                     }).VUE_APP_TITLE || "GoIndex";
                     window.document.title = "".concat(t).concat(e ? " | ".concat(e) : "")
                 },
@@ -1483,7 +1483,7 @@
         "use strict";
 
         function n(e) {
-            return "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.11/dist/" + e
+            return "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/goindex-theme-acrou@3.0.12/dist/" + e
         }
         a.d(t, "a", function() {
             return n
