@@ -60,19 +60,21 @@
                         staticClass: "content"
                     }, [n("div", {
                         staticClass: "field has-text-centered"
-                    },), n("div", {
+                    }, [n("label", {
+                        staticClass: "label"
+                    }, [e._v(" " + e._s(e.$t("page.video.link")) + " "), n("a", {
+                        staticClass: "button is-text index-button-copy",
+                        on: {
+                            click: e.copy
+                        }
+                    }, [e._v(" " + e._s(e.$t("copy.text")) + " ")])]), n("div", {
                         staticClass: "control has-text-centered"
                     }, [n("a", {
                         staticClass: "button",
                         domProps: {
                             value: e.videoUrl
-                        }, [e._v(" " + e._s(e.$t("page.video.link")) + " "), n("a", {
-                            staticClass: "button is-text index-button-copy",
-                            on: {
-                                click: e.copy
-                            }
-                        }, [e._v(" " + e._s(e.$t("copy.text")) + " ")])]
-                    })])), n("div", {
+                        }
+                    })])]), n("div", {
                         staticClass: "columns is-mobile is-multiline has-text-centered"
                     }, e._l(e.players, (function(t, i) {
                         return n("div", {
