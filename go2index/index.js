@@ -25,7 +25,6 @@ var authConfig = {
       id: "",
       name: "TeamDrive",
       pass: "",
-    },
     {
       id: "root",
       name: "PrivateDrive",
